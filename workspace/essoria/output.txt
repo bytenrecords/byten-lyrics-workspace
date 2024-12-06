@@ -1,39 +1,37 @@
-**Instructions for Isadora Lee:**
+**To: Isadora Lee**
+**Email: bytenrecords+isadora@gmail.com**
 
-1. **Get Instructions from Owner:** Follow up and wait for the owner's response regarding the specific aspects to focus on for Megan's lyrics review.
-
-2. **Review Lyrics:** Once you have the instructions, review Megan's lyrics carefully. Pay close attention to the themes, style, and any suggestions from Kyoichitsu.
-
-3. **Incorporate Suggestions:** Analyze Kyoichitsu's suggestions and merge them with your personal insights to create an improved version of the song.
-
-4. **Generate New Song Lyrics:** 
-   - Start by structuring the lyrics with appropriate sections, wrapping them with brackets as specified. 
-   - For the introduction, begin with [intro] [instrumental].
-   - Complete the lyrics by drafting a coherent and emotional set that aligns with the feedback received.
-
-5. **Choose Music Styles:** Come up with a minimum of 3 to 5 distinct styles of music that would suit the song best. Make sure they are concise and listed in a comma-separated format.
-
-6. **Draft Title and Finalize:** Assign a title that captures the essence of the song and ensure all components are harmonized into a polished piece.
+**Subject: Instructions for Reviewing Megan's Lyrics**
 
 ---
 
-**Generated Lyrics Example Structure:**
-```
-[intro] [instrumental]
-[verse]
-{Your generated lyrics for the verse}
-[chorus]
-{Your generated lyrics for the chorus}
-[bridge]
-{Your generated lyrics for the bridge}
-```
+Hi Isadora,
 
-**Stylish Genres (Examples):** Pop, EDM, Indie Rock, R&B, Acoustic
+Thank you for your patience! Here are the instructions for your task:
 
----
+1. **Review of Megan's Lyrics**: Focus on capturing the emotional weight of the themes, as Megan has been working on lyrics related to love and self-discovery. Make sure to retain the authenticity of her voice while enhancing the lyrical depth.
 
-**Next Steps:**
-- Await the owner's instructions to proceed with the review and lyric creation.
-- Once received, implement the feedback and complete the task. 
+2. **Suggestions from Kyoichitsu**: Kyoichitsu will suggest integrating metaphors and imagery that elevate the emotional impact. Look for those suggestions once they are received, and see how they can enhance Megan's original work.
 
-Email: bytenrecords+isadora@gmail.com
+3. **Music Styles**: For the song, consider genres that reflect a modern yet timeless feel. Suggested styles can include:
+   - Indie Pop
+   - R&B
+   - Alternative Rock
+   - Synth-Pop
+   - Acoustic Folk
+
+4. **Title Inspiration**: Keep the title reflective of the overarching theme, such as “Chasing Echoes” or “Unveiled Heart.”
+
+5. **Structure**: Ensure to assemble the final lyrics with the requested sections wrapped in brackets, starting with [intro] [instrumental].
+
+Once you have these instructions applied, feel free to craft the new lyrics and share them back for review.
+
+Looking forward to your creative output!
+
+Best,
+[Owner's Name]
+Byten Records
+
+--- 
+
+*Proceed with the instructions and let me know if you have any questions!*
