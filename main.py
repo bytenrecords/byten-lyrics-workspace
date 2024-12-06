@@ -53,7 +53,7 @@ def consolidate_output_files_to_variable(workspace_dir):
 
     for file_path in files:
         try:
-            with open(file_path, 'r') as infile:
+            with open(file_path, 'r', encoding='utf-8', errors='replace') as infile:
                 content = infile.read()
                 consolidated_content.append(f"# {file_path}\n{content}")
         except Exception as e:
@@ -107,8 +107,8 @@ def main():
 
                 # Generate the prompt by combining config content and consolidated output
                 consolidated_output = consolidate_output_files_to_variable('workspace')
-                prompt = str(config_content) + "context:\n" + consolidated_output
-
+                prompt = str(config_content) + "\n\ncontext:\n" + consolidated_output
+                print(prompt)
                 # Generate the response
                 response = agents.generate_response.generate_response(prompt)
                 print("\nGenerated Response:\n")
