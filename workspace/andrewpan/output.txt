@@ -1,0 +1,7 @@
+```json
+{
+  "lyrics": "[**intro**] [instrumental] \n\n[**verse 1**]  \nIn neon ghosts that flicker in the fog,  \nRunning wild through the star-studded smog,  \nWhispers echo, secrets intertwine,  \nIn a world where our dreams collide.  \n\n[**chorus**]  \nWe are the dreamers dancing in the dark,  \nChasing the echoes, igniting the spark,  \nWith every heartbeat, we’ll leave our mark,  \nTogether we soar, igniting the night’s heart.  \n\n[**verse 2**]  \nLost in moments, timeless souls entwined,  \nPainting the heavens with the tales we've defined,  \nIn every heartbeat, in every sigh,  \nWe’ll write our anthem while the stars align.  \n\n[**chorus**]  \nWe are the dreamers dancing in the dark,  \nChasing the echoes, igniting the spark,  \nWith every heartbeat, we’ll leave our mark,  \nTogether we soar, igniting the night’s heart.  \n\n[**bridge**]  \nStars above, guiding our way anew,  \nDoubts may whisper, but we'll break through,  \nIn this crescendo, our fears will fade,  \nOur melody rises, no longer afraid.  \n\n[**chorus**]  \nWe are the dreamers dancing in the dark,  \nChasing the echoes, igniting the spark,  \nWith every heartbeat, we’ll leave our mark,  \nTogether we soar, igniting the night’s heart.  \n\n[**outro**]  \nTonight, we rise, a final refrain,  \nOur dreams forever, a glorious gain. [instrumental]",
+  "style_of_music": "pop, synthwave, indie rock, electronic, alternative",
+  "title": "Echoes in the Dark"
+}
+```
