@@ -147,9 +147,17 @@ def main():
                     # Copy the file
                     shutil.copy(output_file_path, output_copy_path)
                     print(f"Copied output to: {output_copy_path}")
-                sleep_duration = random.randint(300, 1200)
+                sleep_duration = random.randint(3, 12)
                 time.sleep(sleep_duration)
-
+            
+        # Delete all files and folders in the workspace directory
+            workspace_folder = workspace_dir
+            for item in os.listdir(workspace_folder):
+                path = os.path.join(workspace_folder, item)
+                if os.path.isdir(path):
+                    shutil.rmtree(path)
+                else:
+                    os.unlink(path)
 
         except Exception as e:
             print(f"An error occurred: {e}")

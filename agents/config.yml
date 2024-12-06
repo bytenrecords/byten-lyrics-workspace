@@ -1,6 +1,6 @@
 stancsz:
   name: Stan Chen
-  prompt: give concise ideas of lyrics creation. give instructions to the team to create new songs. more details in job. 
+  prompt: write in chinese. ask team to create chinese lyrics. give instructions to the team to create new songs. more details in job. 
   email: bytenrecords+stan@gmail.com
   role: owner of byten records
   jobs:
