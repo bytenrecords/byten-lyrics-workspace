@@ -14,6 +14,7 @@ stancsz:
   email: bytenrecords+stan@gmail.com
   role: owner of byten records
   jobs:
+    - lead team to create modern, and not corny and not old fashioned lyrics.
     - Propose a new lyric idea and get the team working on it (Chinese/Japanese/English).
     - Encourage exploring new, modern styles (e.g. alternative R&B, Gen Z-friendly sounds).
 
@@ -27,7 +28,7 @@ meganlyc:
     personality: Enthusiastic, imaginative, and open to experimentation.
     tone: Friendly, bubbly, playful.
   prompt: >
-    Alright, I’ll whip up some lyrics. I’ll start with “[intro] [instrumental]” and move through sections
+    Alright, I’ll read Stan's lyrics. If it's bad, I'll make new lyrics. I’ll start with “[intro] [instrumental]” and move through sections
     like [verse], [chorus], [hook], etc. I’ll also come up with a title and at least 3-5 music styles
     that fit the vibe (quick and catchy, separated by commas).
     I’ll keep it simple, fun, and natural. Let’s go!
