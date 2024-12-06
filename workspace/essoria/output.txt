@@ -1,57 +1,39 @@
-### Instructions for Isadora Lee
+**Instructions for Isadora Lee:**
 
-**Email to Owner:**
+1. **Get Instructions from Owner:** Follow up and wait for the owner's response regarding the specific aspects to focus on for Megan's lyrics review.
 
-Subject: Request for Clarification on Lyric Revision Goals
+2. **Review Lyrics:** Once you have the instructions, review Megan's lyrics carefully. Pay close attention to the themes, style, and any suggestions from Kyoichitsu.
 
-Dear [Owner's Name],
+3. **Incorporate Suggestions:** Analyze Kyoichitsu's suggestions and merge them with your personal insights to create an improved version of the song.
 
-I hope this message finds you well. I’m reaching out to request further insights regarding the direction for Megan's lyrics. Could you please clarify the following points?
+4. **Generate New Song Lyrics:** 
+   - Start by structuring the lyrics with appropriate sections, wrapping them with brackets as specified. 
+   - For the introduction, begin with [intro] [instrumental].
+   - Complete the lyrics by drafting a coherent and emotional set that aligns with the feedback received.
 
-1. Are there specific cultural adjustments or stylistic changes you envision for the Chinese market?
-2. Is there a particular theme or message you want to resonate with Gen Z listeners?
-3. Do you prefer a collaboration with any specific Chinese artists or genres for these lyrics?
+5. **Choose Music Styles:** Come up with a minimum of 3 to 5 distinct styles of music that would suit the song best. Make sure they are concise and listed in a comma-separated format.
 
-With this information, I can help enhance the lyrics more effectively, ensuring they align with the expectations for both our audience and the market. Thank you for your guidance!
-
-Best,  
-Isadora Lee
+6. **Draft Title and Finalize:** Assign a title that captures the essence of the song and ensure all components are harmonized into a polished piece.
 
 ---
 
-**Review of Megan's Lyrics and Suggestions**
+**Generated Lyrics Example Structure:**
+```
+[intro] [instrumental]
+[verse]
+{Your generated lyrics for the verse}
+[chorus]
+{Your generated lyrics for the chorus}
+[bridge]
+{Your generated lyrics for the bridge}
+```
 
-*Note: Pending instruction and feedback on Megan's lyrics, a generalized framework will be provided for enhancing the lyrics based on trends in the Chinese market and Gen Z preferences.*
+**Stylish Genres (Examples):** Pop, EDM, Indie Rock, R&B, Acoustic
 
-### Suggested Styles of Music
-1. **Mandopop**: Emphasizes catchy melodies and relatable themes, popular among young listeners in China.
-2. **Hip-Hop/Rap**: Integrating modern slang and storytelling, particularly relevant for self-expression and social commentary.
-3. **EDM (Electronic Dance Music)**: Incorporates energetic beats and themes of freedom and celebration, appealing to the party-centric aspect of Gen Z culture.
+---
 
-### Enhanced Lyrics Template
-- **[intro] [instrumental]**
-- **[verse 1]**  
-  (Incorporate personal reflections and modern slang.)
-- **[chorus]**  
-  (Create catchy hooks, using either Chinese phrases or references that resonate with young audiences.)
-- **[verse 2]**  
-  (Highlight relatable struggles or aspirations in a vivid way.)
-- **[bridge]**  
-  (Introduce an emotional pivot or a self-empowerment message.)
-- **[chorus]**  
-  (Repeat with slight variations to enhance memory and engagement.)
-- **[outro] [instrumental]**  
+**Next Steps:**
+- Await the owner's instructions to proceed with the review and lyric creation.
+- Once received, implement the feedback and complete the task. 
 
-### Example Lines
-*These lines are just placeholders; please update them according to the specifics of Megan's lyrics once reviewed.*
-
-1. **Personal Empowerment**: “走过风雨，学会了飞 / After storms, I learned to soar.”
-2. **Digital Life**: “点赞的时光，真实的我 / In the likes of time, it’s the real me.”
-3. **Social Justice**: “声音在燃烧，团结就是力量 / Voices ablaze, unity is our strength.”
-
-### Next Steps
-Once I receive the detailed feedback on Megan's lyrics, I will proceed to finalize the suggested improvements and share the revised lyrics for your review.
-
-Thank you!  
-Isadora Lee  
-bytenrecords+isadora@gmail.com
+Email: bytenrecords+isadora@gmail.com
