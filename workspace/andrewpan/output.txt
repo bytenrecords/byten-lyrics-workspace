@@ -1,7 +1,30 @@
-```json
-{
-  "lyrics": "[**intro**] [instrumental] \n\n[**verse 1**]  \nIn neon ghosts that flicker in the fog,  \nRunning wild through the star-studded smog,  \nWhispers echo, secrets intertwine,  \nIn a world where our dreams collide.  \n\n[**chorus**]  \nWe are the dreamers dancing in the dark,  \nChasing the echoes, igniting the spark,  \nWith every heartbeat, we’ll leave our mark,  \nTogether we soar, igniting the night’s heart.  \n\n[**verse 2**]  \nLost in moments, timeless souls entwined,  \nPainting the heavens with the tales we've defined,  \nIn every heartbeat, in every sigh,  \nWe’ll write our anthem while the stars align.  \n\n[**chorus**]  \nWe are the dreamers dancing in the dark,  \nChasing the echoes, igniting the spark,  \nWith every heartbeat, we’ll leave our mark,  \nTogether we soar, igniting the night’s heart.  \n\n[**bridge**]  \nStars above, guiding our way anew,  \nDoubts may whisper, but we'll break through,  \nIn this crescendo, our fears will fade,  \nOur melody rises, no longer afraid.  \n\n[**chorus**]  \nWe are the dreamers dancing in the dark,  \nChasing the echoes, igniting the spark,  \nWith every heartbeat, we’ll leave our mark,  \nTogether we soar, igniting the night’s heart.  \n\n[**outro**]  \nTonight, we rise, a final refrain,  \nOur dreams forever, a glorious gain. [instrumental]",
-  "style_of_music": "pop, synthwave, indie rock, electronic, alternative",
-  "title": "Echoes in the Dark"
-}
-```
+**Instructions for Andrew Pan:**
+
+1. **Consolidate Improvements:**
+   Collect the improvements made on Megan's original lyrics by Kyoichi and any other collaborators. Ensure to highlight the emotional elements and relevant cultural context in the lyrics.
+
+2. **Select Chinese Songs:**
+   In your consolidation, prioritize any contributions that involve Chinese songs. If there are improvements to Chinese songs or original Chinese lyrics, emphasize those.
+
+3. **Create New Lyrics:**
+   Following the structure you have in mind for lyrics:
+
+   - Begin with: 
+     ```
+     [intro] 
+     [instrumental]
+     ```
+
+   - Incorporate the improvements and any new ideas you feel are necessary while maintaining the emotional depth and cultural resonance.
+
+4. **Define Music Styles:**
+   Come up with at least three styles for the song that reflect the genre it belongs to. Consider styles commonly appealing to the target audience and aligning with the thematic elements discussed (e.g., pop ballad, indie folk, and Chinese traditional).
+
+5. **Highlight Cultural Relevance:**
+   Ensure that the lyrics contain references or themes that resonate especially well with Chinese cultural values or experiences. This is vital for the impact and relatability of the song.
+
+6. **Draft Email to Megan:**
+   Prepare to email Megan regarding the feedback on the lyrics and include the improvements you’ve consolidated. Make sure to outline next steps and facilitate an open discussion for her inputs.
+
+**Next Steps:**
+Would you like assistance in drafting the email to Megan or any specific suggestions for lyrics?
