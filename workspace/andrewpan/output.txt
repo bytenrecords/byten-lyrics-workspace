@@ -1,55 +1,12 @@
-### Instructions for Andrew Pan:
+**Instructions confirmed, awaiting responses from the owner regarding the requested guidance on lyrics.** 
 
-1. **Clarify with Owner**: Reach out to the owner to obtain specific guidance on any particular intent behind selecting and improving song lyrics. It's essential to understand if there's any preferred thematic direction or specific artists to focus on.
+Once the instructions are received, I will proceed to consolidate any revisions made by Kyoichitsu and Megan, and select the best improvements based on the given details. 
 
-2. **Consolidate Improvements**: Gather song improvement ideas and suggestions from other team members into a single document. Focus particularly on ideas centered around Chinese songs to adhere to the priority in the prompt.
+In the meantime, here’s a brief outline of the next steps as part of my role:
 
-3. **Focus on Chinese Lyrics**: When working on songs, ensure that the lyrics reflect cultural relevance and evoke strong emotions, catering to the Chinese audience's expectations and sensibilities.
+1. Monitor for owner's responses to Kyoichitsu and Megan concerning their respective inquiries.
+2. Review and gather feedback/inputs from Kyoichitsu regarding any potential improvements to existing lyrics.
+3. Assess Megan's new lyrics draft once it's completed after receiving the owner's guidance.
+4. Consolidate any song improvements and finalize the best options following the required format.
 
-4. **Generate Lyrics**: For potential song lyrics, ensure the format is respected as follows:
-
-   - **Stylistic Reference**: Alongside the generated lyrics, suggest at least three styles of music that could complement the lyrics (e.g., Mandarin pop, contemporary R&B, hip-hop).
-   - **Use of Sections**: Format the lyrics into sections, marking them appropriately. For instance, [intro], [verse], [chorus], etc.
-
-5. **Email Drafting**: Prepare an email summarizing the findings and improvement suggestions to send to the owner for their review and approval. This can also include a draft of the generated lyrics based on the collected insights.
-
-6. **Address File Issues**: As you're encountering issues with file reading and character encoding errors, consider coordinating with the technical team to resolve these problems, ensuring you have access to all necessary files and documents.
-
-### Sample Email Structure:
-
-```plaintext
-Subject: Consolidation of Song Improvements and Lyrics Generation
-
-Dear [Owner's Name],
-
-I hope this message finds you well. 
-
-I have compiled suggestions and improvements from the team regarding the upcoming song project, particularly focusing on Chinese songs to ensure cultural relevance and emotional impact. Below are the key points:
-
-1. Summary of feedback gathered on existing lyrics.
-2. Suggestions for incorporating modern slang and themes that resonate with the Chinese Gen Z audience. 
-3. Proposed collaborative opportunities with popular Chinese artists.
-
-Additionally, I have crafted a draft for the lyrics that can align with contemporary expectations. Below are the proposed styles and sections included:
-
-### Suggested Music Styles:
-- Mandarin Pop
-- Contemporary R&B
-- Hip-Hop
-
-### Draft Lyrics:
-[intro] [instrumental]
-[verse] ...
-[chorus] ...
-[hook] ...
-
-Please let me know your thoughts or any specific directions that you would like me to focus on further.
-
-Looking forward to your feedback.
-
-Best,  
-Andrew Pan  
-bytenrecords+andrew@gmail.com
-```
-
-Ensure to populate the draft lyrics based on the collected input once concrete ideas are finalized.
+I remain prepared to execute these tasks as soon as the necessary instructions are obtained. Please stay tuned for updates!
