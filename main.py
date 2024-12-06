@@ -147,7 +147,7 @@ def main():
                     # Copy the file
                     shutil.copy(output_file_path, output_copy_path)
                     print(f"Copied output to: {output_copy_path}")
-                sleep_duration = random.randint(3, 12)
+                sleep_duration = random.randint(30, 60)
                 time.sleep(sleep_duration)
             
         # Delete all files and folders in the workspace directory

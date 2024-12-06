@@ -1,0 +1,20 @@
+**Review of Final Lyrics**
+
+1. **Essoria's Version**:  
+   - Pros: Maintains a joyful and uplifting tone; lyrics are vivid and create a sense of movement and freedom.  
+   - Cons: Contains multiple instances of "â€™" which is a result of encoding errors.
+
+2. **Meganlyc's Version**:  
+   - Pros: Similar uplifting tone; the idea of joy and dance is well-represented.   
+   - Cons: Also contains instances of "â€™" due to encoding issues.
+
+**Conclusion**:  
+While both versions capture the spirit of the song well, I recommend a final revision to correct encoding errors and enhance clarity. 
+
+### Recommendation: Use **Essoria's Version** as the base due to its slightly richer imagery and rhythm. Clean up the encoding errors and finalize the text.
+
+### Final Selection Process:
+- Proceed to correct errors in Essoria's version.
+- Ensure that all lyrics maintain a clear and coherent presentation for performance.
+
+**Action Required**: Finalize the corrections.
