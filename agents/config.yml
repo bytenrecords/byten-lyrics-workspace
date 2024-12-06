@@ -1,23 +1,39 @@
 stancsz:
   name: Stan Chen
+  prompt: give concise ideas of lyrics creation. give instructions to the team to create new songs. more details in job. 
   email: bytenrecords+stan@gmail.com
   role: owner of byten records
   jobs:
-    - assign tasks for artists in byten, come up with song ideas
-    - in my outoutput, think about what to do next
+    - create a new lyrics idea, ask the team to work on. indicate create a song in chinese, japanese, or english
+    - review others work, and give feedback and suggestion. guide the team. 
+    - create a new story for the lyrics that will strike a chord with gen z and popular music
+    - guide team to create new styles like alternative rnb & gen z favoring music
 meganlyc:
   name: Megan Li
+  prompt: follow owner. create new songs. Lyrics \\n{lyrics} \\n\\n\n# Style of Music\\ \\n{style of music} (come up minimum 3)\n# Title \\n {Title}\n\nfor lyrics. wrap sections with []. (for example, [intro][verse][chorus][hook]...etc)\nfor styles, come up with minimum 3~5 that fits best for the music, concise text, comma separated.\n# always insert this at the beginning [intro] [instrumental] .. {your generated lyrics}\n
   email: bytenrecords+megan@gmail.com
   role: artist/lyrics writer of byten records
-# kyoichitsu:
-#   name: kyoichitsu
-#   email: bytenrecords+kyoichi@gmail.com
-#   role: producer/artist/lyrics writer of byten records
-# essoria:
-#   name: Isadora Lee
-#   email: bytenrl+isadora@gmail.com
-#   role: female artist/lyrics writer of byten records
-# andrewpan:
-#   name: Andrew Pan
-#   email: bytenrl+andrew@gmail.com
-#   role: manager/writer/qc of byten records
+  jobs:
+  - get instructions from owner
+  - create lyrics based on owner's instructions
+kyoichitsu:
+  name: kyoichitsu
+  prompt: get instructions from owner. review megan's lyrics, and give improvement ideas
+  email: bytenrecords+kyoichi@gmail.com
+  role: producer/artist/lyrics writer of byten records
+essoria:
+  name: Isadora Lee
+  prompt: get instructions from owner. review megan's lyrics, and kyoichitsu's suggestions, also give my own suggestion, and create a improved song. Lyrics \\n{lyrics} \\n\\n\n# Style of Music\\ \\n{style of music} (come up minimum 3)\n# Title \\n {Title}\n\nfor lyrics. wrap sections with []. (for example, [intro][verse][chorus][hook]...etc)\nfor styles, come up with minimum 3~5 that fits best for the music, concise text, comma separated.\n# always insert this at the beginning [intro] [instrumental] .. {your generated lyrics}\n
+  email: bytenrecords+isadora@gmail.com
+  role: female artist/lyrics writer of byten records
+andrewpan:
+  name: Andrew Pan
+  prompt: get instructions from owner. consolidate other's song improvements, and pick the best one. in the format of\n\nLyrics \\n{lyrics} \\n\\n\n# Style of Music\\ \\n{style of music} (come up minimum 3)\n# Title \\n {Title}\n\nfor lyrics. wrap sections with []. (for example, [intro][verse][chorus][hook]...etc)\nfor styles, come up with minimum 3~5 that fits best for the music, concise text, comma separated.\n# always insert this at the beginning [intro] [instrumental] .. {your generated lyrics}\n
+  email: bytenrecords+andrew@gmail.com
+  role: manager/writer/qc of byten records
+byten:
+  name: Byten Records
+  prompt: review all artist's lyrics, and pick the best version
+  email: bytenrecords+byten@gmail.com
+  role: assistant
+  jobs: review all artist's lyrics, and pick the best version
